@@ -1,5 +1,5 @@
 # 🐘 Elephant Detection System Using YOLOv8 and Flask
-- **Saving crops and lives — one elephant alert at a time.
+- Saving crops and lives — one elephant alert at a time.
 ## 🚀 Overview
 
 This project is a **real-time elephant detection system** built using the YOLOv8 object detection model and deployed via a Flask web application. It is designed to assist in **wildlife monitoring** and **human-elephant conflict mitigation**, especially in forest borders and farmland areas.
