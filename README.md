@@ -1,8 +1,9 @@
 # 🐘 Elephant Detection System Using YOLOv8 and Flask
 - Saving crops and lives — one elephant alert at a time.
 
-🌍 What's This About?
-In many forest-border areas, elephants sometimes wander into villages or farmlands — causing damage to crops, property, and sometimes leading to dangerous encounters with humans.
+##🌍 What's This About?
+
+- In many forest-border areas, elephants sometimes wander into villages or farmlands — causing damage to crops, property, and sometimes leading to dangerous encounters with humans.
 
 This project is a small step toward solving that — using AI and computer vision.
 
