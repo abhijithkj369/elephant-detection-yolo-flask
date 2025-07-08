@@ -3,7 +3,7 @@
 
 ##🌍 What's This About?
 
-- In many forest-border areas, elephants sometimes wander into villages or farmlands — causing damage to crops, property, and sometimes leading to dangerous encounters with humans.
+ In many forest-border areas, elephants sometimes wander into villages or farmlands — causing damage to crops, property, and sometimes leading to dangerous encounters with humans.
 
 This project is a small step toward solving that — using AI and computer vision.
 
